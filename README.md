@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm Taran Mesala<br>🔭 Currently working at STARUPS.<br>🌱 Delving into Data Structures & Algorithms, DevOps, Gen-AI, AIML, Ethical Hacking and more.<br>💬 Ask me about JavaScript, Node.js, and testing.<br>🙋‍♂️Currently looking to collaborate on Web Development, Testing, and DevOps projects.<br>📫 How to reach me: meesalataran58@gmail.com.
+ Hi, I'm Taran Mesala<br>🔭 Currently working at STARUPS.<br>🌱 Delving into Data Structures & Algorithms, DevOps, Gen-AI, AIML, Ethical Hacking and more.<br>💬 Ask me about JS/TS & MERN.<br>🙋‍♂️Currently looking to collaborate on Web Development, Testing, and DevOps projects.<br>📫 How to reach me: meesalataran58@gmail.com.
 
 
 ## 🌐 Socials:
